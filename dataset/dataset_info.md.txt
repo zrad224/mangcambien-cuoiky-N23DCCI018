@@ -1,0 +1,24 @@
+# Thông tin Dataset
+
+## Tổng quan
+- Tổng số mẫu: 200 ảnh
+- Số nhãn: 4
+- Train / Test split: 80% / 20%
+
+## Phân bổ nhãn
+| Nhãn | Số mẫu | Mô tả |
+|---|---|---|
+| Xin chào | 50 | Đưa ngón tay số 2 |
+| Tạm biệt | 50 | Đưa tay 5 ngón |
+| OK | 50 | Ngón cái + ngón trỏ tạo vòng |
+| Không | 50 | Nắm bàn tay số 0 |
+
+## Cách thu thập
+- Thiết bị: Webcam máy tính
+- Nền tảng: Edge Impulse Data Acquisition
+- Kích thước ảnh: 96x96 px RGB
+- Điều kiện: phòng lab, ánh sáng tự nhiên
+
+## Link dataset gốc
+Dataset được lưu trên Edge Impulse:
+https://studio.edgeimpulse.com/studio/1013348
